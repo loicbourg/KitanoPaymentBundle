@@ -19,6 +19,7 @@
     ],
     "require": {
         "symfony/symfony": "2.2.*",
+        "symfony/framework-bundle": "*",
         "doctrine/orm": ">=2.2.3,<2.4-dev"
     },
     "autoload": {
