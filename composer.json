@@ -19,7 +19,7 @@
     ],
     "require": {
         "symfony/framework-bundle": "*",
-        "doctrine/orm": ">=2.2.3,<2.4-dev"
+        "doctrine/orm": "*"
     },
     "autoload": {
         "psr-0": { "Kitano\\PaymentBundle": "" }
