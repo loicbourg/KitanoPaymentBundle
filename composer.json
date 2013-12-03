@@ -1,5 +1,5 @@
 {
-    "name": "kitano/payment-bundle",
+    "name": "kitano/payment-bundle/custom",
     "description": "Payment system core/shared bundle.",
     "keywords": ["payment"],
     "homepage": "http://github.com/Kitano/KitanoPaymentBundle",
